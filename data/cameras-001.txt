@@ -1,0 +1,31 @@
+# CAMERANEXORA data v1. One record per line, fields separated by |
+# id|name|brand|world|subcategory|year|country|format|status|reference|image|image_license|description
+# Use "Unknown" for anything unverified. image empty = shows "Photograph not yet available".
+100000000000000001|EOS 5D Mark IV|Canon|Digital Camera World|Full-frame DSLR|2016|Japan|Full-frame, 30.4 MP|Discontinued|https://www.canon.com|||Professional full-frame DSLR.
+100000000000000002|D850|Nikon|Digital Camera World|Full-frame DSLR|2017|Japan|Full-frame, 45.7 MP|Discontinued|https://www.nikon.com|||High-resolution full-frame DSLR.
+100000000000000003|Alpha 7 III|Sony|Digital Camera World|Full-frame mirrorless|2018|Japan|Full-frame, 24.2 MP|Discontinued|https://www.sony.com|||Full-frame mirrorless camera.
+100000000000000004|X-T4|Fujifilm|Digital Camera World|APS-C mirrorless|2020|Japan|APS-C, 26.1 MP|Unknown|https://www.fujifilm.com|||APS-C mirrorless camera.
+100000000000000005|M3|Leica|Film Camera World|35mm rangefinder|1954|Germany|35mm film|Discontinued|https://leica-camera.com|||Rangefinder with the Leica M bayonet mount.
+100000000000000006|500C|Hasselblad|Film Camera World|Medium-format SLR|1957|Sweden|6x6 cm on 120 film|Discontinued|https://www.hasselblad.com|||Modular medium-format SLR.
+100000000000000007|SX-70|Polaroid|Film Camera World|Instant film|1972|United States|Integral instant film|Discontinued|Unknown|||Folding SLR instant camera.
+100000000000000008|Brownie|Kodak|Vintage Camera World|Box camera|1900|United States|Roll film|Discontinued|Unknown|||Inexpensive box camera aimed at the mass market.
+100000000000000009|Rolleiflex Original|Rollei|Vintage Camera World|Twin-lens reflex|1929|Germany|6x6 cm on 120 film|Discontinued|Unknown|||The first Rolleiflex twin-lens reflex.
+100000000000000010|AE-1|Canon|Film Camera World|35mm SLR|1976|Japan|35mm film|Discontinued|Unknown|||Early microprocessor-controlled SLR.
+100000000000000011|K1000|Pentax|Film Camera World|35mm SLR|1976|Japan|35mm film|Discontinued|Unknown|||Fully manual K-mount SLR.
+100000000000000012|OM-1|Olympus|Film Camera World|35mm SLR|1972|Japan|35mm film|Discontinued|Unknown|||Compact 35mm SLR.
+100000000000000013|F|Nikon|Film Camera World|35mm SLR|1959|Japan|35mm film|Discontinued|Unknown|||First Nikon SLR; started the F-mount.
+100000000000000014|HERO4 Black|GoPro|Special-Purpose World|Action camera|2014|United States|Digital video|Discontinued|https://gopro.com|||Action camera.
+100000000000000015|Mavic Pro|DJI|Aerial Camera World|Drone camera|2016|China|Gimbal camera|Discontinued|https://www.dji.com|||Foldable consumer drone.
+100000000000000016|ONE X|Insta360|Special-Purpose World|360-degree camera|2018|China|Dual-lens 360|Discontinued|https://www.insta360.com|||Consumer 360-degree camera.
+100000000000000017|Alexa|ARRI|Cinematography World|Digital cinema|2010|Germany|Super 35 sensor|Discontinued|https://www.arri.com|||Digital cinema camera.
+100000000000000018|RED ONE|RED Digital Cinema|Cinematography World|Digital cinema|2007|United States|4K Super 35|Discontinued|https://www.red.com|||Early 4K digital cinema camera.
+100000000000000019|Pocket Cinema Camera|Blackmagic Design|Cinematography World|Compact cinema|2013|Australia|Super 16-size sensor|Discontinued|https://www.blackmagicdesign.com|||Compact cinema camera.
+100000000000000020|LC-A|Lomo|Toy Camera World|Compact film|1984|Soviet Union|35mm film|Discontinued|Unknown|||Compact camera that inspired Lomography.
+100000000000000021|Daguerreotype camera (Giroux)|Giroux|Vintage Camera World|Daguerreotype|1839|France|Daguerreotype plate|Historical|Unknown|||Commercial camera for the daguerreotype process.
+100000000000000022|Speed Graphic|Graflex|Film Camera World|Press/large format|1912|United States|Sheet film|Discontinued|Unknown|||Press camera.
+100000000000000023|DCS 100|Kodak|Digital Camera World|Early digital SLR|1991|United States|Not documented|Discontinued|Unknown|||Early commercial digital SLR.
+100000000000000024|Instax Mini 8|Fujifilm|Film Camera World|Instant film|2012|Japan|Instax Mini film|Discontinued|Unknown|||Instant film camera.
+100000000000000025|Wide Field Camera 3|NASA/ESA (Hubble)|Space Camera World|Space camera|2009|United States|CCD and IR detectors|Active|https://science.nasa.gov/mission/hubble/|||Hubble instrument installed in 2009.
+100000000000000026|Cinématographe|Lumière|Vintage Camera World|Early motion-picture|1895|France|35mm film|Historical|Unknown|||Combined camera, projector and printer.
+100000000000000027|H16|Bolex|Cinematography World|16mm film|1935|Switzerland|16mm film|Discontinued|Unknown|||Spring-wound 16mm camera.
+100000000000000028|Diana|Unknown|Toy Camera World|Plastic toy film|Unknown|Hong Kong|120 film|Discontinued|Unknown|||Plastic-lens toy camera; maker not documented here.
